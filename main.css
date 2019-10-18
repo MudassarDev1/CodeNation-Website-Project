@@ -1,0 +1,11 @@
+body{
+
+    background-image:url('joust.png');
+    background-color: #cccccc;
+}
+h1 {color:red;font-size: 30px;font-style: oblique}
+h2 {color:red;font-size: 30px;font-style: oblique}
+p {font-size: 25px;}
+p,h1,h2 {background-color: rgba(255, 255, 255, 0.75);}
+* {-webkit-box-sizing: border-box;padding: 25px 25px 25px 25px;}
+img {width: 75%;}

@@ -1,0 +1,13 @@
+body{
+
+    background-image:url('SoR.jpeg');
+    background-color: #cccccc;
+}
+h1,h2 {color:green;font-size: 30px;font-style: oblique}
+p {font-size: 25px;}
+h1,h2,p {
+    background-color: rgba(210, 255, 255, 0.85);
+}
+* {-webkit-box-sizing: border-box;
+    padding: 15px;}
+img {width: 25%;}

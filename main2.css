@@ -1,0 +1,11 @@
+body{
+
+    background-image:url('donkeykong2.jpeg');
+    background-color: #cccccc;
+}
+h1,h2 {color:blue;font-:50px;font-style: oblique}
+h1,h2, p {font-size: 25px;
+    background-color: rgba(255, 255, 255, 0.80);
+}
+* {-webkit-box-sizing: border-box;padding: 25px;}
+img {width: 100%;}

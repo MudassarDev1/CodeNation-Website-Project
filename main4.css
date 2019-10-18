@@ -1,0 +1,11 @@
+body{
+
+    background-image:url('pacman.jpeg');
+    background-color: #cccccc;
+}
+h1 {color:red;font-size: 50px;font-style: oblique}
+h2 {color:red;font-size: 25px;font-style: oblique}
+p {font-size: 25px}
+p,h2,h1 {background-color: rgba(255, 255, 255, 0.80);}
+* {-webkit-box-sizing: border-box;padding: 15px;}
+img {width: 75%;}
